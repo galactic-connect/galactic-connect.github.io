@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://galactic-connect.github.io/sitemap.xml
