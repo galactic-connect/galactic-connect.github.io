@@ -76,11 +76,12 @@ const translations = {
         apple_step_7_title: "Step 7",
         apple_step_7_desc: "Enable automatic updates to ensure the app keeps working. Done!",
         apple_invite_link: "Invite Link",
-        hero_download_ios: "Download for iPhone",
-        hero_download_android: "Download for Android",
-        hero_download_macos: "Download for macOS",
-        hero_download_windows: "Download for Windows",
-        hero_download_default: "Download the App",
+        hero_download_ios: "Install on iPhone",
+        hero_download_android: "Install on Android",
+        hero_download_macos: "Install on macOS",
+        hero_download_windows: "Install on Windows",
+        hero_download_default: "Install App",
+        hero_download_others: "Others",
         download_all_title: "Download for any OS"
     },
     ru: {
@@ -160,11 +161,12 @@ const translations = {
         apple_step_7_title: "Шаг 7",
         apple_step_7_desc: "Включите автообновление, чтобы приложение продолжало работать. Готово!",
         apple_invite_link: "Ссылка-приглашение",
-        hero_download_ios: "Скачать на iPhone",
-        hero_download_android: "Скачать на Android",
-        hero_download_macos: "Скачать для macOS",
-        hero_download_windows: "Скачать для Windows",
-        hero_download_default: "Скачать приложение",
+        hero_download_ios: "Установить на iPhone",
+        hero_download_android: "Установить на Android",
+        hero_download_macos: "Установить на macOS",
+        hero_download_windows: "Установить на Windows",
+        hero_download_default: "Установить приложение",
+        hero_download_others: "Другие ОС",
         download_all_title: "Скачать для любых ОС"
     }
 };
