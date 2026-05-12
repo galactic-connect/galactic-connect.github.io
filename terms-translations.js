@@ -24,7 +24,7 @@ const termsTranslations = {
         privacy_section_3_title: "3. Third Parties",
         privacy_section_3_text: "Payment processing is handled by Telegram and its partners. We do not store your payment information on our servers.",
         privacy_section_4_title: "4. Contact",
-        privacy_section_4_text: "If you have any questions, contact us via @vpn_galactic_bot"
+        privacy_section_4_text: "If you have any questions, contact us via <a href=\"https://t.me/galactic_connect_bot\" data-bot-link>@galactic_connect_bot</a>"
     },
     ru: {
         terms_page_title: "Условия Использования - Galactic Connect",
@@ -51,6 +51,6 @@ const termsTranslations = {
         privacy_section_3_title: "3. Третьи лица",
         privacy_section_3_text: "Обработка платежей осуществляется через Telegram и его партнеров. Мы не храним ваши платежные данные.",
         privacy_section_4_title: "4. Контакты",
-        privacy_section_4_text: "По всем вопросам обращайтесь в @vpn_galactic_bot"
+        privacy_section_4_text: "По всем вопросам обращайтесь в <a href=\"https://t.me/galactic_connect_bot\" data-bot-link>@galactic_connect_bot</a>"
     }
 };
