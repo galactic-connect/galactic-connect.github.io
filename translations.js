@@ -16,7 +16,7 @@ const translations = {
         feature_security_title: "Star-Grade Security",
         feature_security_desc: "Your data is locked behind an event horizon of encryption. No one can see what you do.",
         feature_global_title: "Universal Access",
-        feature_global_desc: "Connect to servers across the globe. Bypass geo-restrictions like a wormhole.",
+        feature_global_desc: "Connect to servers across the globe.",
         
         feature_learn_more: "Learn More",
         telegram_stars: "Telegram Stars",
@@ -101,7 +101,7 @@ const translations = {
         feature_security_title: "Звездная Безопасность",
         feature_security_desc: "Ваши данные скрыты за горизонтом событий шифрования. Никто не увидит, что вы делаете.",
         feature_global_title: "Вселенский Доступ",
-        feature_global_desc: "Подключайтесь к серверам по всему миру. Обходите гео-блокировки как кротовую нору.",
+        feature_global_desc: "Подключайтесь к серверам по всему миру.",
         
         feature_learn_more: "Узнать Больше",
         telegram_stars: "Звёзды Telegram",
