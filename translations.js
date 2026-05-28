@@ -73,7 +73,7 @@ const translations = {
         apple_step_5_title: "Step 5",
         apple_step_5_desc: "Tap 'Continue', then choose 'Redeem Code'.",
         apple_step_6_title: "Step 6",
-        apple_step_6_desc: "Without waiting for a code, close TestFlight and open our <a href='https://testflight.apple.com/join/123456' target='_blank'>Invite Link</a> to install the app.",
+        apple_step_6_desc: "Without waiting for a code, close TestFlight and open our <a href='https://testflight.apple.com/join/kaYT7spT' target='_blank'>Invite Link</a> to install the app.",
         apple_step_7_title: "Step 7",
         apple_step_7_desc: "Enable automatic updates to ensure the app keeps working. Done!",
         apple_invite_link: "Invite Link",
