@@ -107,9 +107,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
         const platformConfig = {
             ios:     { key: 'hero_download_ios',     link: 'apple.html' },
-            android: { key: 'hero_download_android', link: `${baseUrl}/galactic-android.apk` },
+            android: { key: 'hero_download_android', link: 'https://play.google.com/store/apps/details?id=com.jetrabbits.galactic' },
             macos:   { key: 'hero_download_macos',   link: `${baseUrl}/galactic-macos.dmg` },
-            windows: { key: 'hero_download_windows', link: `${baseUrl}/galactic-windows.msix` },
+            windows: { key: 'hero_download_windows', link: `${baseUrl}/galactic-windows-setup.exe` },
             linux:   { key: 'hero_download_linux',   link: `${baseUrl}/galactic-linux-${linuxArch}.deb` },
         };
 
